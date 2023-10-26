@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{18B3D262-EE77-B2DB-C3BE-F5AD584479F7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shooting.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="18" Column="22" />
+      <File FileName="Assets/Scripts/Shooting.cs" Line="20" Column="32" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="24" Column="59" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="27" Column="36" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="13" Column="49" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="35" Column="45" />
+      <File FileName="Assets/Scripts/LevelComplete.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TopDownShooting" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d729e5ac-177b-4131-a4c7-765b5a42c19a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
